@@ -1,4 +1,6 @@
 import './App.css';
+
+import Austin from './Austin'
 import SeanFeiner from './SeanFeiner'
 
 import Young from './Young'
@@ -11,8 +13,10 @@ function App() {
       <div className="team-container">
         <SeanFeiner />
         <Young />
-  
+             <Austin />
+
     </div>
+
 
     </div>
   );
