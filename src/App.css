@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.team-container{
+  height: 90vh;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.team-card{
+  width: 40vh;
+}
+
+img{
+  width: 60%;
+}
